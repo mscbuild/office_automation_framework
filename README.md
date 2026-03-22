@@ -3,6 +3,7 @@
 
 [![Security Scan](https://github.com/mscbuild/netGuard-AI-scanner/actions/workflows/security.yml/badge.svg)](https://github.com/mscbuild/netGuard-AI-scanner/actions/workflows/security.yml)
   ![](https://komarev.com/ghpvc/?username=mscbuild) 
+  [![Author](https://img.shields.io/badge/Author-Yuri%20Dev-blue.svg)](http://mscbuild.github.io/)
  ![](https://img.shields.io/github/license/mscbuild/office_automation_framework) 
  ![](https://img.shields.io/badge/PRs-Welcome-green)
   ![](https://img.shields.io/github/languages/code-size/mscbuild/office_automation_framework)
